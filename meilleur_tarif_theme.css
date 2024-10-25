@@ -6,6 +6,10 @@ html{
   display: none;
 }
 
+#logo{
+    display: none;
+  }
+
 .wufoo input.text{
   width:93%;
   padding: 12px 20px;
